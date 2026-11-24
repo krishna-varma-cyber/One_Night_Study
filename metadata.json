@@ -1,0 +1,6 @@
+{
+  "name": "Night Before",
+  "description": "1-night exam preparation planner, blueprint, and topic exam kits for BTech students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
